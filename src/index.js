@@ -1,0 +1,1 @@
+const initialisationPlateau = require('./game/initGame');
